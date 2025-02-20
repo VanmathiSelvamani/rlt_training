@@ -1,0 +1,107 @@
+*{
+background-color:rgb(138, 185, 200);
+}
+
+h1{
+    color: maroon;
+}
+.tc{
+    color: rgb(189, 124, 38);
+}
+
+#ta_c{
+    text-align: center;
+}
+
+#ta_r{
+    text-align: right;
+}
+
+#ta_l{
+    text-align: left;
+}
+
+.ff_one{
+    font-family: monospace;
+}
+
+.ff_two{
+    font-family: Arial Narrow;
+}
+
+.fs_px{
+    font-size: 20px;
+}
+
+.ts{
+    text-shadow: 2px 2px 4px red -2px -2px -4px orangered;
+}
+
+.ml{
+    margin-left: 20px;
+}
+
+.mr{
+    margin-right: 20px;
+}
+
+.m{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bl{
+    border-left: 5px solid rgb(237, 64, 185);
+   
+}
+
+.b{
+    border:15px solid rgb(211, 52, 161);
+}
+
+.b_one{
+    border:10px dashed rgb(191, 135, 39);
+}
+
+.b_two{
+    border:10px dotted rgb(183, 42, 214);
+}
+
+.b_three{
+    border:10px double rgb(18, 74, 109);
+}
+
+.bm{
+   
+    border-width: 15px;
+    border-style: double;
+    border-color: rgb(22, 106, 112);
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.bms{
+    border:15px double rgb(22, 106, 112);
+    /*width,style,color*/
+    margin: 50px 50px 50px 50px;
+    /*top,right,bottum,left*/
+}
+
+.bmp{
+    border:15px double rgb(22, 106, 112);
+    /*width,style,color*/
+    margin: 50px 50px 50px 50px;
+    /*top,right,bottum,left*/
+    padding: 80px 80px 80px 80px;
+    /*top,right,bottum,left*/
+    background-color: darkgoldenrod;
+}
+.bgc{
+    background-color: darkorchid;
+    
+}
